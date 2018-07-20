@@ -20,6 +20,12 @@ AI Based chatbot using Python and AIML
 5. You're done, chat with your Robot :)
 6. To quit chat enter exit.
 
+## To run on webpage
+1. ```bash
+    python app.py
+    ```
+2. open any browser and type http://127.0.0.1:5000/
+
 ## Contribute
 
 Want to work on the project? Any kind of contribution is welcome!
