@@ -13,9 +13,9 @@ AI Based chatbot using Python and AIML
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the python script.
+3. Run the python script on terminal.
     ```bash
-    python main.py
+    python mainT.py
     ```
 5. You're done, chat with your Robot :)
 6. To quit chat enter exit.
