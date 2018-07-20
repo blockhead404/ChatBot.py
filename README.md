@@ -1,6 +1,10 @@
 # ChatBot.py
 AI Based chatbot using Python and AIML
 
+<p align="center">
+  <img src="https://github.com/blockhead404/ChatBot.py/blob/master/Chatbot.png" height="350" title="ChatBot.py" alt="ChatBot.py">
+</p>
+
 ### Requirements
     Python >= 2.x
     AIML
